@@ -13,6 +13,9 @@ The chapter select saves spawn you in at that chapter's start location with a va
 Checks that only require the screwdriver or boltcutters and don't require the water to be lowered can be checked on a late chapter save, meaning you can move through previously inaccessible areas to get to the location. Examples include the cult stash behind the Kalevala Knights Workshop.
 
 There are a couple of items that are not randomised, those being the father doll, lighthouse key and 2 manuscript pages in the lighthouse. These would require all nursery rhymes/cult stashes to be done, which is not feasible with chapter select.
+
+## Victory Condition
+You need to acquire 5/10 of the "Progressive Verse" items (and the angel lamp), in order to fully complete Initiation 4 "We Sing". Each progressive verse allows access to the next part of the song, with 5 being required to reach the finale
  
 ## Items
 Saga:
@@ -111,10 +114,6 @@ Lake House
 - Manuscript Pages
 - Dylan cutscene
 - Chapter completion
-
-
-## Victory Condition
-You need to acquire 5/10 of the "Progressive Verse" items (and the angel lamp), in order to fully complete Initiation 4 "We Sing". Each progressive verse allows access to the next part of the song, with 5 being required to reach the finale
 
 ## Deathlink
 When you die to an enemy (not in the Prologue), this counts as a death. When receiving a deathlink, you must either die to an enemy if able, or reload your most recent save.
