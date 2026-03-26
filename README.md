@@ -76,6 +76,8 @@ Estevez:
 - Weapons (shotgun, black rock launcher)
 - Security Keycards
 
+When Estevez picks up a higher level of keycard, the old ones become unusable. If you have not received that level of keycard from the AP yet, you cannot access the newly unlocked locations, but are free to use it to traverse through locations that the AP says you have access to.
+
 
 ## Locations
 
