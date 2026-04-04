@@ -3,6 +3,8 @@ This AP is meant to be played using the chapter selection feature, meaning every
 
 Additionally, special items are required to enter Coffee World (Coffee World Entrance Token) and Valhalla Nursing Home (Valhalla Nursing Home Appointment), to reduce the number of Sphere 1 checks.
 
+Finally, this map shows most of the checks in the game. https://gmtreks.com/alanwake2
+
 ## Upgrades
 For Saga, the AP has bundles of 10 manuscript fragments. You are free to invest any manuscript fragments in game, but you cannot go over the total number invested that is allowed by the AP (e.g. cannot spend over 20 fragments). Likewise with Alan, the AP sets a limit on how many Words of Power you can have at one time.
 
