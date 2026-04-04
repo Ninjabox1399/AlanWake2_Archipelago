@@ -63,8 +63,26 @@ Manual_AlanWake2_Ninjabox:
     full: 50
     minimal: 0
 
+  filler_traps:
+    # How many fillers will be replaced with traps. 0 means no additional traps, 100 means all fillers are traps.
+    # Only trap so far is the Reload Flashlight Trap
+    # You can define additional values (e.g: 15:50, 60:50, 100:50)
+    #
+    # You can define additional values between the minimum and maximum values.
+    # Minimum value is 0
+    # Maximum value is 100
+    random: 0
+    random-low: 0 # random value weighted towards lower values
+    random-high: 0 # random value weighted towards higher values
+    random-range-0-100: 0 # random value between 0 and 100
+    default: 50 # equivalent to 0
+    20: 0 # equivalent to 20
+
   death_link:
     # When you die, everyone who enabled death link dies. Of course, the reverse is true too.
+    # When you receive a deathlink, you must either die to an enemy or reload your latest save (auto or manual).
+    # If you have a coffee mug charm equipped, remove it and continue, no dying necessary.
+    # A death is defined as dying to an enemy so that you see the defeated loading screen.
     'false': 50
     'true': 0
 
