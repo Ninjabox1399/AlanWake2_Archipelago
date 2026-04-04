@@ -118,7 +118,12 @@ Lake House
 - Chapter completion
 
 ## Deathlink
-When you die to an enemy (not in the Prologue), this counts as a death. When receiving a deathlink, you must either die to an enemy if able, or reload your most recent save.
+When you die to an enemy (not in the Prologue), this counts as a death. When receiving a deathlink, you must either die to an enemy if able, or reload your most recent save (auto or manual).
+
+If you have a coffee mug charm equipped, remove it and continue, no dying necessary.
+
+## Traps
+Currently, there is only one trap type, the Reload Flashlight trap. When this is received, you must (if able to) reload your flashlight.
 
 ## Night Springs and Lake House DLC
 In the YAML, there is an option to include both in the rando. This adds 12 items and 38 locations.
