@@ -123,7 +123,7 @@ When you die to an enemy (not in the Prologue), this counts as a death. When rec
 If you have a coffee mug charm equipped, remove it and continue, no dying necessary.
 
 ## Traps
-Currently, there is only one trap type, the Reload Flashlight trap. When this is received, you must (if able to) reload your flashlight.
+Currently, there is only one trap type, the Reload Flashlight trap. When this is received, you must (if able to) reload your flashlight. The amount of these items can be configured in the yaml.
 
 ## Night Springs and Lake House DLC
 In the YAML, there is an option to include both in the rando. This adds 12 items and 38 locations.
