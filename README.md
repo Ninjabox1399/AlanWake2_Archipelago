@@ -16,6 +16,20 @@ There are a couple of items that are not randomised, those being the father doll
 
 ## Victory Condition
 You need to acquire 5/10 of the "Progressive Verse" items (and the angel lamp), in order to fully complete Initiation 4 "We Sing". Each progressive verse allows access to the next part of the song, with 5 being required to reach the finale
+
+## Deathlink
+When you die to an enemy (not in the Prologue), this counts as a death. When receiving a deathlink, you must either die to an enemy if able, or reload your most recent save (auto or manual).
+
+If you have a coffee mug charm equipped, remove it and continue, no dying necessary.
+
+## Traps
+Currently, there is only one trap type, the Reload Flashlight trap. When this is received, you must (if able to) reload your flashlight. The amount of these items can be configured in the yaml.
+
+## Night Springs and Lake House DLC
+In the YAML, there is an option to include both in the rando. This adds 12 items and 38 locations.
+
+## Starting Items
+For Saga, Alan and Estevez (if DLC is enabled), you can use their pistol and flashlight from the start. Additionally, Saga starts with Logan's charm which is a check. 
  
 ## Items
 Saga:
@@ -84,6 +98,8 @@ When Estevez picks up a higher level of keycard, the old ones become unusable. I
 Saga:
 
 - Nursery Rhymes/Dolls
+- Mayor Setter Charm Location
+- Bullet of Light Location
 - Key Item locations (listed above)
 - Weapon locations
 - Alex Casey lunchboxes
@@ -117,16 +133,4 @@ Lake House
 - Dylan cutscene
 - Chapter completion
 
-## Deathlink
-When you die to an enemy (not in the Prologue), this counts as a death. When receiving a deathlink, you must either die to an enemy if able, or reload your most recent save (auto or manual).
 
-If you have a coffee mug charm equipped, remove it and continue, no dying necessary.
-
-## Traps
-Currently, there is only one trap type, the Reload Flashlight trap. When this is received, you must (if able to) reload your flashlight. The amount of these items can be configured in the yaml.
-
-## Night Springs and Lake House DLC
-In the YAML, there is an option to include both in the rando. This adds 12 items and 38 locations.
-
-## Starting Items
-For Saga, Alan and Estevez (if DLC is enabled), you can use their pistol and flashlight from the start. Additionally, Saga starts with Logan's charm which is a check. 
