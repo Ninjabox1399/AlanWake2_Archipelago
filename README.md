@@ -1,9 +1,9 @@
 # Alan Wake 2 Manual Archipelago
 This AP is meant to be played using the chapter selection feature, meaning every chapter is accessible in any order. However, locations that are only accessible after the water recedes have been programmed in logic to become available after the boss of the area has been defeated. This is to ensure that you have to play through a good chunk of the story, and don't play on a late game save and collect all the checks that way.
 
-Additionally, special items are required to enter Coffee World (Coffee World Entrance Token) and Valhalla Nursing Home (Valhalla Nursing Home Appointment), to reduce the number of Sphere 1 checks.
+Additionally, special items are required to enter Coffee World (Coffee World Entrance Token), Valhalla Nursing Home (Valhalla Nursing Home Appointment), Watery (Watery Location Unlock), West Bright Falls (West Bright Falls Access) to reduce the number of Sphere 1 checks.
 
-Finally, this map shows most of the checks in the game. https://gmtreks.com/alanwake2
+PopTracker pack available here: https://github.com/Ninjabox1399/AlanWake2_AP_Poptracker which has detailed item and location maps (with all puzzle solutions) that can send archipelago checks.
 
 ## Upgrades
 For Saga, the AP has bundles of 10 manuscript fragments. You are free to invest any manuscript fragments in game, but you cannot go over the total number invested that is allowed by the AP (e.g. cannot spend over 20 fragments). Likewise with Alan, the AP sets a limit on how many Words of Power you can have at one time.
