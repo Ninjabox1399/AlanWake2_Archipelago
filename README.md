@@ -17,7 +17,7 @@ Checks that only require the screwdriver or boltcutters and don't require the wa
 There are a couple of items that are not randomised, those being the father doll, lighthouse key and 2 manuscript pages in the lighthouse. These would require all nursery rhymes/cult stashes to be done, which is not feasible with chapter select.
 
 ## Victory Condition
-You need to acquire 5/10 of the "Progressive Verse" items (and the angel lamp), in order to fully complete Initiation 4 "We Sing". Each progressive verse allows access to the next part of the song, with 5 being required to reach the finale
+You need to acquire 5/7 of the "Progressive Verse" items (and the angel lamp), in order to fully complete Initiation 4 "We Sing". Each progressive verse allows access to the next part of the song, with 5 being required to reach the finale
 
 ## Deathlink
 When you die to an enemy (not in the Prologue), this counts as a death. When receiving a deathlink, you must either die to an enemy if able, or reload your most recent save (auto or manual).
