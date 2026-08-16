@@ -25,7 +25,11 @@ When you die to an enemy (not in the Prologue), this counts as a death. When rec
 If you have a coffee mug charm equipped, remove it and continue, no dying necessary.
 
 ## Traps
-Currently, there is only one trap type, the Reload Flashlight trap. When this is received, you must (if able to) reload your flashlight. The amount of these items can be configured in the yaml.
+There are two traps, the Reload Flashlight trap and the Herald of Darkness IRL trap.
+Flashlight trap - you must reload your flashlight immediately.
+Herald of Darkness trap - you must immediately get up from your computer and perform the Herald of Darkness dance before you can continue playing.
+
+You can configure the percentage of these traps in the yaml.
 
 ## Night Springs and Lake House DLC
 In the YAML, there is an option to include both in the rando. This adds 12 items and 38 locations.
@@ -80,7 +84,7 @@ Alan:
  
 Alan needs Progressive Plot items for each of his drafts. Each plot item allows for another idea to be used (e.g. 1 is needed for the missing FBI agent plot, and 2 for the murder cult idea in Caldera Station).
 
-Additionally, Progressive Verse items are needed to access the We Sing chapter, one for each section of the song. There are 2 checks in the chapter (flare gun and echo before the jazz section), needing 3 and 4 of the progressive verse items respectively. 5 are needed to finish the chaper, and therefore goal.
+Additionally, Progressive Verse items are needed to access the We Sing chapter, one for each section of the song. There are 2 checks in the chapter (flare gun and echo before the jazz section), needing 3 and 4 of the progressive verse items respectively. 5 are needed to finish the chapter, and therefore goal.
 
 Night Springs:
 - Episode Unlocks
