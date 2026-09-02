@@ -1,5 +1,9 @@
 # Alan Wake 2 Manual Archipelago
-This AP is meant to be played using the chapter selection feature, meaning every chapter is accessible in any order. However, locations that are only accessible after the water recedes have been programmed in logic to become available after the boss of the area has been defeated. This is to ensure that you have to play through a good chunk of the story, and don't play on a late game save and collect all the checks that way.
+
+## Requirements
+This AP is meant to be played using the chapter selection feature, meaning every chapter is accessible in any order. This means you need to have played the game at least once to unlock all the chapters.
+
+Locations that are only accessible after the water recedes have been programmed in logic to become available after the boss of the area has been defeated. This is to ensure that you have to play through a good chunk of the story, and don't play on a late game save and collect all the checks that way.
 
 Additionally, special items are required to enter Coffee World (Coffee World Entrance Token), Valhalla Nursing Home (Valhalla Nursing Home Appointment), Watery (Watery Location Unlock), West Bright Falls (West Bright Falls Access) to reduce the number of Sphere 1 checks.
 
